@@ -1,4 +1,4 @@
-# 🏆 Hermès Sales Performance Analysis 2022–2024
+#  Hermès Sales Performance Analysis 2022–2024
 
 > Analyse complète des ventes d'une Maison de luxe sur données simulées — EDA, performance commerciale et segmentation clients RFM + K-Means.
 
